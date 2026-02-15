@@ -28,7 +28,7 @@ cp -r i3 ~/.config/
 
 # Example for nvim
 cp -r nvim ~/.config/
-
+```
 
 ## Credits
 ### I used this article by sager sharma [link](https://itsfoss.com/i3-customization/)
