@@ -12,6 +12,7 @@
 * **Window Manager:** [i3wm](https://i3wm.org/)
 * **Status Bar:** i3status
 * **Shell:** zsh with [ Oh My Zsh!!]
+* **Compositor** picom 
 * **Terminal:** [GNOME Terminal]
 * **Editor:** [Neovim-kikstart_project](https://github.com/
 nvim-lua/kickstart.nvim)
